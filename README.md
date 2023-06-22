@@ -1,4 +1,4 @@
-### liberty ###
+# liberty
 ## A simple networking library
 
 Developers:
