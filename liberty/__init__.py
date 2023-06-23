@@ -23,7 +23,7 @@ __title__ = 'liberty'
 __author__ = 'Xsarz'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2023 Xsarz'
-__version__ = '1.0.31'
+__version__ = '1.0.3'
 __newest__ = get("https://pypi.org/pypi/liberty.py/json").json()["info"]["version"]
 
 
